@@ -1,0 +1,12 @@
+[project]
+name = "yolo-example"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "ultralytics>=8.3.0",
+    "opencv-python>=4.10.0",
+    "torch>=2.5.0",
+    "torchvision>=0.20.0",
+    "numpy>=1.26.0",
+]
